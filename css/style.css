@@ -3,6 +3,8 @@ header{
     background-position: center center;
     height: 350px;
     background-image: url(/img/bg2.jpg);
+    background-size: 100%;
+    
 }
 
 h1,h2{
@@ -37,7 +39,6 @@ h2{
     font: caption;
     padding: 5px 15px ;
 }
-
 
 h3{
     text-align: center;
